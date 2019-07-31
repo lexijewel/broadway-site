@@ -1,0 +1,155 @@
+@charset "UTF-8";
+.navbar.navbar-expand-lg.navbar-dark.bg-dark .navbar-brand {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.navbar.navbar-expand-lg.navbar-dark {
+    background-color: #000000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.navbar.navbar-expand-lg.navbar-dark .navbar-brand {
+    font-size: 32px;
+}
+.navbar.navbar-expand-lg.navbar-dark #navbarSupportedContent {
+    clear: right;
+    color: #FFFFFF;
+    margin-left: 741px;
+}
+.jumbotron.jumbotron-fluid.text-center .display-4 {
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: normal;
+    font-size: 52px;
+    margin-top: 95px;
+    margin-bottom: -52px;
+}
+.jumbotron.jumbotron-fluid.text-center {
+    background-image: url(Broadway-master/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+}
+#navbarSupportedContent .navbar-nav.mr-auto .nav-item {
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+    clear: none;
+    float: none;
+    padding-left: 10px;
+    margin-left: 1px;
+}
+#navbarSupportedContent .navbar-nav.mr-auto .nav-item {
+}
+.jumbotron.jumbotron-fluid.text-center .lead .btn.btn-lg {
+    color: #FFFFFF;
+    border-width: 3px;
+    border-color: #FFFFFF;
+    border-radius: 18px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 23px;
+}
+.col-md-4 .card .card-body {
+    background-image: url(Broadway-master/design-icon.png);
+    background-repeat: no-repeat;
+    padding-bottom: 84px;
+    margin-left: 74px;
+}
+.design {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+}
+.container .row .col-md-4.develop {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+}
+.container .row .col-md-4.deploy {
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 38px;
+}
+.develop {
+}
+.deploy {
+}
+.dp {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    font-size: 23px;
+}
+.container .row .col-md-4.dp2 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    font-size: 23px;
+}
+.container .row .col-md-4.p3 {
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 23px;
+}
+.jumbotron.jumbotron-fluid.text-center.sign {
+    background-image: url(Broadway-master/contact.jpg);
+    background-position: center center;
+}
+.dp2 {
+}
+body h4 {
+}
+.p3 {
+}
+.sign {
+}
+body h4 {
+    color: #D3D3D3;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    background-color: #000000;
+    margin-top: 13px;
+    padding-bottom: 13px;
+    padding-top: 20px;
+}
+.jumbotron.jumbotron-fluid.text-center.sign h6 {
+    color: #EEEEEE;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: 600;
+    font-size: 39px;
+}
+.row .col-lg-6 #submit {
+    margin-right: 9px;
+    padding-right: 24px;
+    padding-left: 29px;
+}
+.row .col-lg-6 #reset {
+    padding-right: 25px;
+    padding-left: 28px;
+}
+.row .col-lg-6 label {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+#form1 .row .col-lg-12 {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+#form1 .row .message {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.message {
+}
+.container .row .dev {
+    padding-left: 0px;
+    margin-left: 81px;
+}
+.jumbotron.jumbotron-fluid.text-center {
+    padding-bottom: 199px;
+}
+.dev {
+}
